@@ -1,0 +1,2 @@
+from dark_web_scraper import find_onion_links
+find_onion_links('http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion')
